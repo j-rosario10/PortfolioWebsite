@@ -13,7 +13,7 @@ const About = () => {
               <div className="w-64 h-80 rounded-lg overflow-hidden border-2 border-cyan-500/30">
                 {/* Optional: Replace with actual image */}
                 <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-gray-700 to-gray-600">
-                <img className src="public/assets/images/836FE6EA-B559-4933-9A8B-6E4EFB4E7457.jpeg" alt="About Image" />  
+                <img className src="/assets/images/836FE6EA-B559-4933-9A8B-6E4EFB4E7457.jpeg" alt="About Image" />  
                 </div>
               </div>
               <div className="absolute -bottom-4 -right-4 w-full h-full border-2 border-cyan-500 rounded-lg -z-10"></div>
