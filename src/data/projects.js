@@ -21,7 +21,7 @@ const projects = [
     title: "CAD Machined Keychain (Oct 2024)",
     description: "Designed and fabricated a custom keychain using SOLIDWORKS and hands-on machining with 3D printing, lathe, mill, and drill press.",
     fullDescription: "In this project, I created a custom multi-component keychain from concept to final assembly. Using SOLIDWORKS, I modeled each part, planned dimensions, and generated detailed technical drawings to support fabrication. I manufactured the components using a combination of 3D printing and manual machining, including lathe operations, milling, and precision drilling. The project involved mechanical assembly with attention to fit and finish, where I used calipers and other measurement tools to ensure accurate alignment and a high-quality result. This experience strengthened my skills in CAD design, technical drawing interpretation, and practical machining techniques.",
-    image: ["/assets/images/8777c44c-666d-4a87-9438-9877b6c92778.jpg", "/assets/images/3196f566-52b4-4d99-a76f-9b6948e0ff5c.jpg", "public/assets/images/IMG_7221.jpeg"],
+    image: ["/assets/images/8777c44c-666d-4a87-9438-9877b6c92778.jpg", "/assets/images/3196f566-52b4-4d99-a76f-9b6948e0ff5c.jpg", "assets/images/IMG_7221.jpeg"],
     technologies: ["SOLIDWORKS", "Lathe", "Milling Machine", "Drill Press", "3D Printing"],
   },
   {
